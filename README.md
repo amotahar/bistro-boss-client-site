@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 
 vite + react
 vite + react leran
+leran bistro 
+boss
