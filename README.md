@@ -1,4 +1,4 @@
-# React + Vite + Real + learn + March
+# React + freedom
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rrules.
 
 Currently, two official plugins are availablree:
