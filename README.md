@@ -1,5 +1,5 @@
-# React + freedom + activity + learn activity + stocks and learn + N Socket + Farhan
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rrrules.
+# React + freedom + releif
+This template provides a mal setup to get React working in Vite with HMR and some ESLint rrrules.
 
 Currently, two official plugins are availablree:
 
