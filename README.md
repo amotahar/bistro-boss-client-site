@@ -1,4 +1,4 @@
-# React + treatment + supplement + learn 
+# React + treatment + supplement + learn + leta start
 This template provides a mal setup to get React working in Vite with HMR and some ESLint strong rrrules.
 
 Currently, two official plugins are availablree:
