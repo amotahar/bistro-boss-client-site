@@ -1,4 +1,4 @@
-# React +be unity
+# React +be unity + be journey
 This template provides a mal setup to get React working in Vite with HMR and some ESLint strong rrrules + restart
 
 Currently, two official plugins are availablree:
